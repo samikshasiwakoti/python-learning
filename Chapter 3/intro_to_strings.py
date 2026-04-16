@@ -4,6 +4,6 @@ name3 = '''samii''' # Tripple quoted string
 # They all mean same 
 
 nameshort = name1[0:3] # start from index 0 all the way till 3 (exceeding 3 means up to 2 like index 0,1,2 )
-print(nameshort)
+print(nameshort) # it is called string slicing
 character1 = name1[1]
 print(character1)
