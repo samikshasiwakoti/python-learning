@@ -12,4 +12,5 @@ print(text)
 
 l1 = [7,4,8,0,1,2]
 l1.sort()
+print(l1.pop(4))
 print(l1)
