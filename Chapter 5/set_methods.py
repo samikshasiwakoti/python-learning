@@ -18,3 +18,6 @@ print(s3.intersection({7,9}))
 s3 = {1, 2, 3}
 
 print(s3.intersection({7, 9})) # it gives empty set
+print({1,2}.issubset(s1)) # if it is subset than true
+
+print(s1.issuperset({1,2}))
