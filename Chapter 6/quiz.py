@@ -4,3 +4,5 @@ if(a>=18):
     print("yes")
 else:
     print("No")
+
+    
