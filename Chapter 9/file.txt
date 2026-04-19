@@ -1,1 +1,2 @@
-I am learning python
+
+ I think i will be good in python soon
