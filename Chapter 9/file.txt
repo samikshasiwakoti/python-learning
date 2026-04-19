@@ -1,2 +1,1 @@
-Nepal is a beautiful country one must visit.
-Everybody will enjoy visiting Nepal.
+I am learning python
