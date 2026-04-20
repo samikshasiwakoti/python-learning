@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-# Abstract Class
+# Abstract Class it is liked strict rule where it have same method
 class Animal(ABC):
 
     @abstractmethod
