@@ -1,5 +1,5 @@
 class Calculator:
-    def __init__(self, n):
+    def __init__(self, n, a): # instance method
         self.n = n
 
     def square(self):
@@ -9,7 +9,7 @@ class Calculator:
     def squareroot(self):
         print(f"The squareroot is {self.n**1/2}")
 
-a = Calculator(4)
+a = Calculator(4, 3)
 a.square()
 a.cube()
 a.squareroot()
