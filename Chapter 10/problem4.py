@@ -1,4 +1,4 @@
-# Add a static method in problem2., to greet status(no of seats) and get fare information of train running under indian railways
+# Add a static method in problem2., to greet the user with hello
 class Calculator:
     def __init__(self, n): # instance method
         self.n = n
