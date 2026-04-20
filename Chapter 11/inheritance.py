@@ -4,7 +4,7 @@ class Animal:
 class Dog(Animal) :
     def bark(self) :
         print("Dog barks")  
-# class Cat(Animal): # this is multilevel inhritance
+# class Cat(Animal): # this is multilevel inheritance
 #     def meows(self):
 #         print("Cat MewMew")   
 # class Cow(Animal) :

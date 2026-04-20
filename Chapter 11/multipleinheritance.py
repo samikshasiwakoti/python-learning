@@ -11,7 +11,8 @@ class Child(Father, Mother):
         print("Dancing")
 c = Child()
 c . skill1()   
-c . skill2()     
+c . skill2() 
+c. skill3()    
 
 
 
