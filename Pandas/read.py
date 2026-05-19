@@ -9,8 +9,11 @@ print(df.info())
 print(df.describe())
 print(df.columns)
 print(df["Name"])
-print(df.iloc[0])
-print(df.iloc[0:2])
+print(df.iloc[0])# first row by postioning
+print(df.iloc[0:2])# first 2 row
+print(df.iloc[:, 0])# everything
+print(df[df['Age']<30])
+print(df[(df["Sex"] == "Female") & (df["Survived"] ==1)])
 
 
 
